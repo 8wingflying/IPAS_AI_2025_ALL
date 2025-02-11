@@ -1,0 +1,11 @@
+# 生成式 AI 入門
+- [生成式 AI 入門](https://learning.oreilly.com/library/view/introduction-to-generative/9781633437197/)
+- 1 Large language models: The power of AI
+- 2 Training large language models
+- 3 Data privacy and safety with LLMs
+- 4 The evolution of created content
+- 5 Misuse and adversarial attacks
+- 6 Accelerating productivity: Machine-augmented work
+- 7 Making social connections with chatbots
+- 8 What’s next for AI and LLMs
+- 9 Broadening the horizon: Exploratory topics in AI
