@@ -1,5 +1,6 @@
 # IPAS_AI_2025_ALL
-# IPAS_AI_2025
+#### [巨量資料分析師](https://www.ipas.org.tw/bda)
+#### [機器學習工程師](https://www.ipas.org.tw/ML)
 
 # 初級 能力鑑定
 ## 科目1: L11 人工智慧基礎概論
