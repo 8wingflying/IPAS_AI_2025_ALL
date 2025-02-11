@@ -1,6 +1,13 @@
 # IPAS_AI_2025_ALL
 #### [巨量資料分析師](https://www.ipas.org.tw/bda)
 #### [機器學習工程師](https://www.ipas.org.tw/ML)
+- 1.[機器學習的數學基礎 : AI、深度學習打底必讀 西內啟 著](https://www.tenlong.com.tw/products/9789863126140?list_name=srh)
+- 2.[圖解AI｜機器學習和深度學習的技術與原理 | 株式会社アイデミー, 山口達輝, 松田洋之 |衛宮紘 譯](https://www.tenlong.com.tw/products/9789865025885?list_name=srh)
+- 3.[精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 3/e (Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3/e)|Aurélien Géron 著 ](https://www.tenlong.com.tw/products/9786263246676?list_name=srh)
+- 4.[大數據分析與資料挖礦2/e |簡禎富 ; 許嘉裕](https://www.tenlong.com.tw/products/9789869688130?list_name=srh) 
+- 5.人工智慧導論|鴻海教育基金會 
+- 6.[資料科學的建模基礎 |江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
+- 初級:106-113  中級:108-113 每年一次
 
 # 初級 能力鑑定
 ## 科目1: L11 人工智慧基礎概論
