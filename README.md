@@ -9,16 +9,25 @@
 - 5.人工智慧導論|鴻海教育基金會 
 - 6.[資料科學的建模基礎 |江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
 - 111-113每年兩次
+
 ### AI概論
+- [從 AI 到 生成式 AI：40個零程式的實作體驗，培養新世代人工智慧素養 |羅光志 博士](https://www.tenlong.com.tw/products/9789863127543?list_name=sp)
 - [寫給中學生看的 AI課：AI生態系需要文理兼具的未來人才 |蔡宗翰](https://www.tenlong.com.tw/products/9789576587931?list_name=sp)
 - [人工智能通識教程（第2版·微課版） |周蘇，楊武劍](https://www.tenlong.com.tw/products/9787302665762?list_name=lv)
-
-### 數學基礎
-- [機器學習的數學基礎 : AI、深度學習打底必讀 西內啟 著](https://www.tenlong.com.tw/products/9789863126140?list_name=srh)
-- [深度學習的數學地圖 -- 用 Python 實作神經網路的數學模型 ](https://www.tenlong.com.tw/products/9789863126263?list_name=sp)
-- [資料科學的建模基礎 |江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
-- [資料科學的統計實務|江崎貴裕 著 温政堯 譯；施威銘研究室 監修](https://www.tenlong.com.tw/products/9789863126829?list_name=sp)
-- [機器學習的統計基礎 : 深度學習背後的核心技術|黃志勝博士，施威銘研究室 監修](https://www.tenlong.com.tw/products/9789863126744?list_name=sp)
+- [圖解AI｜機器學習和深度學習的技術與原理 | 株式会社アイデミー, 山口達輝, 松田洋之 |衛宮紘 譯](https://www.tenlong.com.tw/products/9789865025885?list_name=srh)
+- [圖解 AI 與深度學習的運作機制 高校数学でわかるディープラーニングのしくみ | 涌井貞美 著 陳朕疆 譯](https://www.tenlong.com.tw/products/9786263047525?list_name=sp)
+### AIGC
+### No-Code AI
+- [Data Science Made Easy: Hands-On Analytics with No-Code Software Tool KNIME]()
+  - [KNIME: Open for Innovation](https://www.knime.com/)
+- [Master LangChain with No-Code tools - Flowise and LangFlow](https://learning.oreilly.com/course/master-langchain-with/9781836645436/)
+- [Create Gen AI-Powered Apps - All with No-Code](https://learning.oreilly.com/course/create-gen-ai-powered/9781836645757/)
+- [Democratizing No-Code Application Development with Bubble](https://learning.oreilly.com/library/view/democratizing-no-code-application/9781804610947/)
+- [No-Code Machine Learning Using Amazon AWS SageMaker Canvas](https://learning.oreilly.com/course/no-code-machine-learning/9781804619896/)
+- [AI 自動化流程超 Easy -- 不寫程式 No code 也能聰明幹大事 |施威銘研究室](https://www.tenlong.com.tw/products/9789863128069?list_name=srh)
+  - [make.com](https://www.make.com/en) 
+- [AI 投資理財賺錢術 – No Code 也能賺大錢 |洪錦魁 著](https://www.tenlong.com.tw/products/9786267569436?list_name=srh)
+- No-Code Ai: Concepts and Applications in Machine Learning, Visualization, and Cloud Platforms
 
 # 初級 能力鑑定
 ## 科目1: L11 人工智慧基礎概論
@@ -55,6 +64,7 @@
 
 ### 生成式 AI概論
 - [生成式 AI 入門](https://www.tenlong.com.tw/products/9789863128243?list_name=srh)
+- [生成式人工智慧：AIGC 的邏輯與應用](https://www.tenlong.com.tw/products/9786269744077?list_name=sp)
 
 # 中級 能力鑑定
 - 1.人工智慧技術應用與規劃 [必考 ]
@@ -112,5 +122,35 @@
   - L23401 數據隱私、安全與合規
   - L23402 演算法偏見與公平性
 
-## 推薦書籍
+### 數學基礎
+- [機器學習的數學基礎 : AI、深度學習打底必讀 西內啟 著](https://www.tenlong.com.tw/products/9789863126140?list_name=srh)
+- [深度學習的數學地圖 -- 用 Python 實作神經網路的數學模型 ](https://www.tenlong.com.tw/products/9789863126263?list_name=sp)
+- [資料科學的建模基礎 |江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
+- [資料科學的統計實務|江崎貴裕 著 温政堯 譯；施威銘研究室 監修](https://www.tenlong.com.tw/products/9789863126829?list_name=sp)
+- [機器學習的統計基礎 : 深度學習背後的核心技術|黃志勝博士，施威銘研究室 監修](https://www.tenlong.com.tw/products/9789863126744?list_name=sp)
+
+## 機器學習
+- https://github.com/Visualize-ML
+  - 自2022年8月開始，在GitHub上開源「鳶尾花書」學習資源，截至2023年9月，已經分享4000多頁PDF、4000多幅矢量圖、約2000個代碼文件，全球讀者數以萬計
+  - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学 
 - [最新機器學習的教科書, 2/e|伊藤真 著](https://www.tenlong.com.tw/products/9786267383889?list_name=lv)
+- [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 3/e (最新版本)|Aurélien Géron 著 ](https://www.tenlong.com.tw/products/9786263246676?list_name=srh)
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3/e
+  - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ 
+- 非監督學習
+  - [Hands-On Unsupervised Learning Using Python]() 
+## 深度學習
+- [Keras 大神歸位：深度學習全面進化！用 Python 實作 CNN、RNN、GRU、LSTM、GAN、VAE、Transformer |François Chollet](https://www.tenlong.com.tw/products/9789863127017?list_name=sp)
+- [深度學習的 16 堂課：CNN + RNN + GAN + DQN + DRL, 看得懂、學得會、做得出！](https://www.tenlong.com.tw/products/9789863126782?list_name=sp)
+  - Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence)
+  - ‧範例 + 旗標 Bonus 加值內容 → https://www.flag.com.tw/bk/st/F1383
+  - 作者深度學習系列教學影片 → https://reurl.cc/mLj7jV
+## 生成式 AI
+- [生成深度學習｜訓練機器繪畫、寫作、作曲與玩遊戲, 2/e]()
+  - Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play, 2/e)
+
+
+## 其他
+- Build a Website with ChatGPT: No Coding Experience Necessary |暫譯: 使用 ChatGPT 建立網站：無需編程經驗 McFedries, Paul
+  - https://learning.oreilly.com/library/view/build-a-website/9781633436961/
+  - https://github.com/paulmcfe/websites-with-chatgpt 
