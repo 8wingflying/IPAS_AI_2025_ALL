@@ -1,0 +1,46 @@
+## 學習資源
+- Gartner
+  - 2022[Gartner 的「雲端 AI 開發人員服務的魔力象限]()
+  - 2024[2024 Gartner Report Magic Quadrant for AI Code Assistants](https://pages.awscloud.com/GLOBAL-brand-awareness-content-download-24-gartner-ardm-ai-code-assistants-mq-learn.html?trk=a006b17c-8864-4658-a650-fc5b2a7f8fb7&sc_channel=el)
+- [人工智慧解決方案| Microsoft AI](https://www.microsoft.com/zh-tw/ai)
+  - [Azure documentation](https://learn.microsoft.com/en-us/azure/?product=popular) 
+- [Google Machine learning and AI](https://cloud.google.com/learn/training/machinelearning-ai)
+  - [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118) 
+- [AWS Training and Certification](https://aws.amazon.com/tw/training/?nc2=sb_tc)
+  - [AWS AI/ML](https://aws.amazon.com/tw/training/learn-about/machine-learning/)
+  - [AWS 白皮書和指南](https://aws.amazon.com/tw/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all)
+  - [AWS Certified AI Practitioner](https://aws.amazon.com/tw/certification/certified-ai-practitioner/?pp=cert&c=exam&z=2)
+    - AWS Certified AI Practitioner 認證可驗證人工智慧 (AI)、機器學習 (ML) 以及生成式 AI 概念和使用案例方面的熱門知識。
+    - 90 分鐘    65 個問題    100 USD  有效期為 3 年
+  - [AWS Certified Data Engineer - Associate]
+  - [AWS Certified Machine Learning Engineer - Associate](https://aws.amazon.com/tw/certification/certified-machine-learning-engineer-associate/?pp=cert&c=exam&z=2)
+    - 130 分鐘   65 個問題   150 美元  有效期為 3 年
+    - AWS Certified Machine Learning Engineer - Associate 是一項以角色為基礎的認證，專為具有至少一年 AI/ML 經驗的 ML 工程師和 MLOps 工程師而設計。 
+  - [AWS Certified Machine Learning – Specialty](https://aws.amazon.com/tw/certification/certified-machine-learning-specialty/?c=sec&sec=resources)
+    - AWS Machine Learning - Specialty 是一項專業認證，涵蓋資料工程、資料分析、建模以及 ML 實作與操作等主題。它更適合具有 2 年或以上在 AWS 上開發、架構和執行 ML 工作負載經驗的個人。
+## AI 國際證照
+- Microsoft Certified Fundamentals(MCF)
+  - 微軟與國際專業認證考試機構Certiport合作推出。
+  - 依工作角色職能規劃認證類別，角色職能含概系統管理員、DevOps工程師、資料工程師、程式開發人員、AI工程師、商務功能顧問、安全性工程師、資料科學家、雲端解決方案架構師。透過MCF使應試者以階段式全盤理解微軟雲服務在人工智能、大數據、資料科學、商業智慧和雲端運算等領域的實務應用。
+  - AI-900
+    - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/zh-tw/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
+    - [AI-900：Microsoft Azure AI Fundamentals 人工智慧核心能力國際認證應考攻略](https://www.tenlong.com.tw/products/9786263248663?list_name=srh)
+    - [Microsoft Azure AI 認知服務基礎必修課 - 使用 C# (含MCF AI-900國際認證模擬試題)](https://www.tenlong.com.tw/products/9786263243101?list_name=rd)
+    - [Microsoft Azure AI Fundamentals AI-900 Exam Guide](https://www.oreilly.com/library/view/microsoft-azure-ai/9781835885666/?_gl=1*1qd0fuf*_gcl_aw*R0NMLjE3Mzk0NzMxODguQ2p3S0NBaUF6YmE5QmhCaEVpd0E3Z2xiYW1xZS1BTmtVMWZrTVQ0T3Rjc3NDVGF3QWJ3SUlYMXpuSUJjem9iaHVpMWZWbE5tcDB1a3h4b0NJcVlRQXZEX0J3RQ..*_ga*NjQ4OTc3NzguMTcxNzcyMDAwNw..*_ga_092EL089CH*MTczOTQ3MzE4Ny4xOS4xLjE3Mzk0NzMzNzkuNTMuMC4w)
+    - [Azure AI Fundamentals (AI-900) Study Guide](https://www.oreilly.com/library/view/azure-ai-fundamentals/9798341607804/?_gl=1*1qd0fuf*_gcl_aw*R0NMLjE3Mzk0NzMxODguQ2p3S0NBaUF6YmE5QmhCaEVpd0E3Z2xiYW1xZS1BTmtVMWZrTVQ0T3Rjc3NDVGF3QWJ3SUlYMXpuSUJjem9iaHVpMWZWbE5tcDB1a3h4b0NJcVlRQXZEX0J3RQ..*_ga*NjQ4OTc3NzguMTcxNzcyMDAwNw..*_ga_092EL089CH*MTczOTQ3MzE4Ny4xOS4xLjE3Mzk0NzMzNzkuNTMuMC4w)
+    - [Microsoft Azure AI Fundamentals Certification Companion: Guide to Prepare for the AI-900 Exam](https://learning.oreilly.com/library/view/microsoft-azure-ai/9781484292211/)
+    - [Exam Ref AI-900 Microsoft Azure AI Fundamentals](https://learning.oreilly.com/library/view/exam-ref-ai-900/9780137358076/?_gl=1*1ue2xbp*_gcl_aw*R0NMLjE3Mzk0NzMxODguQ2p3S0NBaUF6YmE5QmhCaEVpd0E3Z2xiYW1xZS1BTmtVMWZrTVQ0T3Rjc3NDVGF3QWJ3SUlYMXpuSUJjem9iaHVpMWZWbE5tcDB1a3h4b0NJcVlRQXZEX0J3RQ..*_ga*NjQ4OTc3NzguMTcxNzcyMDAwNw..*_ga_092EL089CH*MTczOTQ3MzE4Ny4xOS4xLjE3Mzk0NzQwNjcuMjYuMC4w)
+    - [Microsoft Azure AI Fundamentals Certification Companion: Guide to Prepare for the AI-900 Exam](https://learning.oreilly.com/library/view/microsoft-azure-ai/9781484292211/?_gl=1*1lz19v7*_gcl_aw*R0NMLjE3Mzk0NzMxODguQ2p3S0NBaUF6YmE5QmhCaEVpd0E3Z2xiYW1xZS1BTmtVMWZrTVQ0T3Rjc3NDVGF3QWJ3SUlYMXpuSUJjem9iaHVpMWZWbE5tcDB1a3h4b0NJcVlRQXZEX0J3RQ..*_ga*NjQ4OTc3NzguMTcxNzcyMDAwNw..*_ga_092EL089CH*MTczOTQ3MzE4Ny4xOS4xLjE3Mzk0NzQwNjcuMjYuMC4w)
+  - AI_102
+    - [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/zh-tw/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+    - [恆逸 設計和實作Azure AI的解決方案](https://www.uuu.com.tw/Course/Show/1789/%E8%A8%AD%E8%A8%88%E5%92%8C%E5%AF%A6%E4%BD%9CAzure-AI%E7%9A%84%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88)
+    - [Azure AI Engineer Associate (AI-102) Study Guide](https://learning.oreilly.com/library/view/azure-ai-engineer/9781098169251/?_gl=1*14000mx*_gcl_aw*R0NMLjE3Mzk0NzMxODguQ2p3S0NBaUF6YmE5QmhCaEVpd0E3Z2xiYW1xZS1BTmtVMWZrTVQ0T3Rjc3NDVGF3QWJ3SUlYMXpuSUJjem9iaHVpMWZWbE5tcDB1a3h4b0NJcVlRQXZEX0J3RQ..*_ga*NjQ4OTc3NzguMTcxNzcyMDAwNw..*_ga_092EL089CH*MTczOTQ3MzE4Ny4xOS4xLjE3Mzk0NzQwNjcuMjYuMC4w)
+    - [Azure AI Engineer Associate Certification (AI-102) Prep Bootcamp](https://learning.oreilly.com/live-events/azure-ai-engineer-associate-certification-ai-102-prep-bootcamp/0642572003762/) 
+  - DP-900：Microsoft Azure Data Fundamentals
+    - [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/zh-tw/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+    - [Microsoft Azure 資料基礎](https://learn.microsoft.com/zh-tw/training/courses/dp-900t00)
+    - [DP-900：Microsoft Azure Data Fundamentals 雲端資料核心能力國際認證應考攻略](https://www.tenlong.com.tw/products/9786263244580?list_name=srh)
+    - [dp-900-測驗準備-考試過程](https://medium.com/@willyzhuang/dp-900-%E6%B8%AC%E9%A9%97%E6%BA%96%E5%82%99-%E8%80%83%E8%A9%A6%E9%81%8E%E7%A8%8B-microsoft-azure-data-fundamentals-187618481355)
+- IBM Applied AI Professional Certificate:Beginner-level
+- Artificial Intelligence Engineer (AIE) Certification Process by the Artificial Intelligence Board of America (ARTiBA)
+- DeepLearning.AI TensorFlow Developer 專業證書
