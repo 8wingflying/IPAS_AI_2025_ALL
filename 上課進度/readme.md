@@ -1,6 +1,8 @@
 # 上課內容
 - https://github.com/MyDearGreatTeacher/ML202302
 - https://github.com/MyDearGreatTeacher/AI4high
+  - AI4high/Keras_簡單線性回歸.ipynb 
+- https://github.com/MyDearGreatTeacher/AI_and_security
 # 推薦學習
 - 台灣大學 李弘毅 教授課程
   - [YOUTUBE](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) 
@@ -13,9 +15,10 @@
         - 傳統機器學習內容 
     - [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 # 上課內容
-### 20250225
-- Neural Network , neuron, logical gate
-
+- 20250225
+  - Neural Network , neuron, logical gate
+- 20250304: AI4high/Keras_簡單線性回歸.ipynb 
+  - 下午 AI數學
 # 實戰主題
 - 資料科學 [2025年版由此去]()
   - https://github.com/MyDearGreatTeacher/AI4high 
