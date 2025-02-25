@@ -3,6 +3,7 @@
 - https://github.com/MyDearGreatTeacher/AI4high
   - AI4high/Keras_簡單線性回歸.ipynb 
 - https://github.com/MyDearGreatTeacher/AI_and_security
+- https://github.com/MyDearGreatTeacher?tab=repositories&q=AI&type=&language=&sort=
 # 推薦學習
 - 台灣大學 李弘毅 教授課程
   - [YOUTUBE](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ) 
