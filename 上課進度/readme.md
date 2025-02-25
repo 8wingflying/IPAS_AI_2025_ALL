@@ -24,3 +24,4 @@
 - 人工智慧 [2025年版由此去]()
   - 2023課程 https://github.com/MyDearGreatTeacher/AI_SEC_202302/tree/main 
 - 生成式AI [2025年版由此去]()
+- [AI數學](./AI數學)
