@@ -9,5 +9,7 @@
 ### 20250225
 - Neural Network , neuron, logical gate
 # 實戰主題
+- 資料科學
 - 機器學習
-- 機器學習類型
+- 人工智慧
+- 生成式AI
