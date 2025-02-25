@@ -18,6 +18,8 @@
 - 20250225
   - Neural Network , neuron, logical gate
 - 20250304: AI4high/Keras_簡單線性回歸.ipynb 
+  - 線性回歸 Linear regression | 手把手學線性回歸
+    - https://github.com/zotroneneis/machine_learning_basics/blob/master/linear_regression.ipynb
   - 下午 AI數學
 # 實戰主題
 - 資料科學 [2025年版由此去]()
