@@ -10,5 +10,9 @@
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 3/e (最新版本)|Aurélien Géron 著 ](https://www.tenlong.com.tw/products/9786263246676?list_name=srh)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3/e
   - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ 
+- Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2
+  - 中譯本
+  - https://github.com/rasbt/python-machine-learning-book-3rd-edition
+  - https://static.packt-cdn.com/downloads/9781789955750_ColorImages.pdf
 - 非監督學習
   - [Hands-On Unsupervised Learning Using Python]() 
