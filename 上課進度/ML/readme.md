@@ -24,7 +24,9 @@
 - Ensemble Learning|集成式學習
   - 套件 : scikit-learn、Keras、OpenEnsembles、XGBoos
   - [集成式學習：Python 實踐！整合全部技術，打造最強模型|](https://www.tenlong.com.tw/products/9789863126942?list_name=srh)
-    - Hands-On Ensemble Learning with Python: Build highly optimized ensemble machine learning models using scikit-learn and Keras
+  - Ensemble Methods for Machine Learning |Kunapuli, Gautam
+    - [集成學習實戰](https://www.tenlong.com.tw/products/9787302660927?list_name=srh)
+    - https://github.com/gkunapuli/ensemble-methods-notebooks 
+  - Hands-On Ensemble Learning with Python: Build highly optimized ensemble machine learning models using scikit-learn and Keras
 George Kyriakides、Konstantinos G. Margaritis 著
-  - [Ensemble Machine Learning Cookboo|Dipayan Sarkar, Vijayalakshmi Natarajan ]()
-  - [Ensemble Methods for Machine Learning |Kunapuli, Gautam ]() 
+  - Ensemble Machine Learning Cookboo|Dipayan Sarkar, Vijayalakshmi Natarajan
