@@ -23,7 +23,12 @@
   - https://static.packt-cdn.com/downloads/9781789955750_ColorImages.pdf
 - 非監督學習
   - [Hands-On Unsupervised Learning Using Python]()
-    - [非監督式學習｜使用 Python ](https://www.tenlong.com.tw/products/9789865024062?list_name=srh)  
+    - [非監督式學習｜使用 Python ](https://www.tenlong.com.tw/products/9789865024062?list_name=srh)
+  - Hands-On Unsupervised Learning with Python| Bonaccorso, Giuseppe
+    - https://github.com/PacktPublishing/HandsOn-Unsupervised-Learning-with-Python   
+  - Applied Unsupervised Learning with Python| Johnston, Benjamin, Jones, Aaron, Kruger, Christopher
+    - https://github.com/TrainingByPackt/Applied-Unsupervised-Learning-with-Python 
+  - The Unsupervised Learning Workshop
 - Ensemble Learning|集成式學習
   - 套件
     - scikit-learn
