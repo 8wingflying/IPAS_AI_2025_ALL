@@ -1,4 +1,14 @@
-#
+# 實作主題
+- 架構
+  - 資料分析
+  - 資料預處理
+  - 模型設計與優化
+  - 提交測試
+- 坦尼克號罹難乘客預測
+- Ames房產價值評估
+- 推特短文本分類
+- CIFAR 100圖像識別
+- [Python機器學習及實踐——從零開始通往Kaggle競賽之路（2022年度版）|範淼、徐晟桐](https://www.tenlong.com.tw/products/9787302614241?list_name=srh)
 
 # 延伸閱讀
 - [Kaggle 競賽攻頂秘笈 -- 揭開 Grandmaster 的特徵工程心法，掌握制勝的關鍵技術](https://www.tenlong.com.tw/products/9789863126379?list_name=srh) 
@@ -29,5 +39,6 @@
 - [自學機器學習 - 上 Kaggle 接軌世界，成為資料科學家](https://www.tenlong.com.tw/products/9789863126720?list_name=srh) 
   - で学んでハイスコアをたたき出す！ Python機械学習&データ分析|チーム・カルポ 著 温政堯 譯
 - [Kaggle 大師教您用 Python 玩資料科學，比賽拿獎金|石原祥太郎、村田秀樹](https://www.tenlong.com.tw/products/9789865027681?list_name=srh)
+- [Python機器學習及實踐——從零開始通往Kaggle競賽之路（2022年度版）|範淼、徐晟桐](https://www.tenlong.com.tw/products/9787302614241?list_name=srh)
 - The Kaggle Book: Data analysis and machine learning for competitive data science | Banachewicz, Konrad, Massaron, Luca
 - The Kaggle Workbook: Self-learning exercises and valuable insights for Kaggle data science competitions| Banachewicz, Konrad, Massaron, Luca
