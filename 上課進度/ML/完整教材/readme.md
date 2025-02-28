@@ -14,8 +14,16 @@
 ## 監督式學習|分類 
 # 非監督式學習
 - Clustering Analysis(叢集)
-- 資料壓縮與降維(Dimensionality Reduction)
+  - Hierarchical Clustering 
+- 資料壓縮與降維| Dimensionality Reduction and Component Analysis
   - 主成分分析
+- Anomaly Detection
+- 自動編碼器（Autoencoder） ==> AI | Deep Learning
+- 非監督式深度學習模型
+  - 受限波爾茲曼機
+  - 深度信念網路（DBNs）
+  - 生成對抗網路GAN
+  - 時序型資料分群法 
 # 集成式學習|Ensemble Learning
 - 非生成式演算法
   - 投票法（Voting）
