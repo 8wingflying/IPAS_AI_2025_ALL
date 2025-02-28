@@ -2,7 +2,8 @@
 - 單變量微積分
 - 多變量微積分
   - 梯度
-- Optimization優化方法
+- Optimization|優化方法|最佳化
+  - 最小平方法mean square error == > 線性迴歸
   - 梯度下降法
     - batch
     - 隨機梯度下降
