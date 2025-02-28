@@ -1,5 +1,5 @@
 # 機器學習平台
-- scikit-learning
+- [scikit-learn](scikit-learn.md)
 - Kaggle平台
 # 機器學習演算法
 - 監督式學習
