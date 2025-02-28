@@ -16,3 +16,10 @@
   - https://static.packt-cdn.com/downloads/9781789955750_ColorImages.pdf
 - 非監督學習
   - [Hands-On Unsupervised Learning Using Python]() 
+- Ensemble Learning|集成式學習
+  - 套件 : scikit-learn、Keras、OpenEnsembles、XGBoos
+  - [集成式學習：Python 實踐！整合全部技術，打造最強模型|](https://www.tenlong.com.tw/products/9789863126942?list_name=srh)
+    - Hands-On Ensemble Learning with Python: Build highly optimized ensemble machine learning models using scikit-learn and Keras
+George Kyriakides、Konstantinos G. Margaritis 著
+  - [Ensemble Machine Learning Cookboo|Dipayan Sarkar, Vijayalakshmi Natarajan ]()
+  - [Ensemble Methods for Machine Learning |Kunapuli, Gautam ]() 
