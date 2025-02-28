@@ -17,12 +17,22 @@
   - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ 
 - Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2
   - 中譯本
+    - https://www.tenlong.com.tw/products/9789864345182
+    - https://www.tenlong.com.tw/products/9789864345199 
   - https://github.com/rasbt/python-machine-learning-book-3rd-edition
   - https://static.packt-cdn.com/downloads/9781789955750_ColorImages.pdf
 - 非監督學習
   - [Hands-On Unsupervised Learning Using Python]() 
 - Ensemble Learning|集成式學習
-  - 套件 : scikit-learn、Keras、OpenEnsembles、XGBoos
+  - 套件
+    - scikit-learn
+    - Keras
+    - OpenEnsembles、
+    - XGBoost
+      - [深入理解 XGBoost：高效機器學習算法與進階|何龍](https://www.tenlong.com.tw/products/9787111642626?list_name=srh)
+      - XGBoost for Regression Predictive Modeling and Time Series Analysis
+      - [梯度提升算法實戰 — 基於 XGBoost和 scikit-learn |Corey Wade](https://www.tenlong.com.tw/products/9787302659518?list_name=srh)
+      - https://github.com/PacktPublishing/Hands-On-Gradient-Boosting-with-XGBoost-and-Scikit-learn
   - [集成式學習：Python 實踐！整合全部技術，打造最強模型|](https://www.tenlong.com.tw/products/9789863126942?list_name=srh)
   - Ensemble Methods for Machine Learning |Kunapuli, Gautam
     - [集成學習實戰](https://www.tenlong.com.tw/products/9787302660927?list_name=srh)
