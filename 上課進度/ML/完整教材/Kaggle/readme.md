@@ -1,6 +1,33 @@
 #
 
 # 延伸閱讀
+- [Kaggle 競賽攻頂秘笈 -- 揭開 Grandmaster 的特徵工程心法，掌握制勝的關鍵技術](https://www.tenlong.com.tw/products/9789863126379?list_name=srh) 
+  - 門脇大輔、阪田隆司、保坂桂佑、平松雄司
+  - 3.3 缺失值的處理
+  - 3.3.1 維持缺失值
+  - 3.3.2 以代表值填補缺失值
+  - 3.3.3 使用其他變數來預測缺失值
+  - 3.3.4 由缺失值來建立一個全新的特徵
+  - 3.3.5 認識資料中的缺失值
+  - 3.4 數值變數的轉換
+  - 3.4.1 標準化 (standardization)
+  - 3.4.2 Min-Max 縮放方法
+  - 3.4.3 非線性轉換
+  - 3.4.4 Clipping
+  - 3.4.5 Binning (分組)
+  - 3.4.6 將數值轉換為排序
+  - 3.4.7 RankGauss
+  - 3.5 類別變數的轉換
+  - 3.5.1 One-hot encoding
+  - 3.5.2 Label encoding
+  - 3.5.3 Feature hashing
+  - 3.5.4 Frequency encoding
+  - 3.5.5 Target encoding
+  - 3.5.6 Embedding
+  - 3.5.7 處理次序變數
+  - 3.5.8 提取類別變數中值的意義
 - [自學機器學習 - 上 Kaggle 接軌世界，成為資料科學家](https://www.tenlong.com.tw/products/9789863126720?list_name=srh) 
   - で学んでハイスコアをたたき出す！ Python機械学習&データ分析|チーム・カルポ 著 温政堯 譯
-- [Kaggle 大師教您用 Python 玩資料科學，比賽拿獎金|石原祥太郎、村田秀樹](https://www.tenlong.com.tw/products/9789865027681?list_name=srh) 
+- [Kaggle 大師教您用 Python 玩資料科學，比賽拿獎金|石原祥太郎、村田秀樹](https://www.tenlong.com.tw/products/9789865027681?list_name=srh)
+- The Kaggle Book: Data analysis and machine learning for competitive data science | Banachewicz, Konrad, Massaron, Luca
+- The Kaggle Workbook: Self-learning exercises and valuable insights for Kaggle data science competitions| Banachewicz, Konrad, Massaron, Luca
