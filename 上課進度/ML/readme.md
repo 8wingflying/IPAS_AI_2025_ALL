@@ -1,8 +1,13 @@
 ## 課程
+- 機器學習基本觀念
+- 學習平台|開發平台
+- 機器學習演算法
+- 評估指標|效能指標|Performance Measures
+- 模型驗證（Validation）
+- 參數調教與模型選擇(Model Evaluation and Hyperparameter Optimization)
+- 集成式學習|Ensemble Learning
 
-## [完整教材](./完整教材)
-
-## 機器學習
+## 參考文獻
 - https://github.com/Visualize-ML
   - 自2022年8月開始，在GitHub上開源「鳶尾花書」學習資源，截至2023年9月，已經分享4000多頁PDF、4000多幅矢量圖、約2000個代碼文件，全球讀者數以萬計
   - Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学 
