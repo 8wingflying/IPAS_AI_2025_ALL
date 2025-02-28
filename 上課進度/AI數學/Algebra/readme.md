@@ -2,7 +2,7 @@
 - 向量與向量運算
 - 矩陣與矩陣運算
 - 矩陣高等運算
-  - 矩陣分解(常用的五種)
+  - 矩陣分解(常用的五種) ==> 主成分分析|PCA|Principal components analysis
     - orthogonal vector decomposition
     - QR decomposition
       - Orthogonal Matrices 
