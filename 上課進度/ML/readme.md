@@ -22,7 +22,8 @@
   - https://github.com/rasbt/python-machine-learning-book-3rd-edition
   - https://static.packt-cdn.com/downloads/9781789955750_ColorImages.pdf
 - 非監督學習
-  - [Hands-On Unsupervised Learning Using Python]() 
+  - [Hands-On Unsupervised Learning Using Python]()
+    - [非監督式學習｜使用 Python ](https://www.tenlong.com.tw/products/9789865024062?list_name=srh)  
 - Ensemble Learning|集成式學習
   - 套件
     - scikit-learn
