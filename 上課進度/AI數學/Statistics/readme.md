@@ -1,5 +1,26 @@
-# 機率 /統計之機器學習基礎應用
-
+# 機率與統計 ==> 機器學習基礎應用
+- 機率
+  - 機率
+  - 機變數與機率分配
+  - 離散型機率分配
+  - 連續型機率分配 
+- 統計學
+  - 描述統計與EDA(Exploratory data analysis)
+  - 推論統計學
+    - 估計
+      - 抽樣、抽樣分配與點估計
+      - 區間估計
+    - 假設檢定
+    - 兩個母體參數之統計推論
+    - 變異數分析
+    - 迴歸分析
+      - 簡單線性迴歸分析
+      - 多元線性迴歸分析     
+  - 無母數方法
+    - 符號檢定
+    - Wilcoxon符號等級檢定
+    - Mann-Whitney-Wilcoxon檢定法
+    - Kruskal-Wallis H檢定法
 
 ### 數學基礎
 - [AI 時代 Math 元年 - 用 Python 全精通統計及機率](https://www.tenlong.com.tw/products/9786267383629?list_name=srh)
@@ -8,4 +29,6 @@
 - [機器學習的數學基礎 : AI、深度學習打底必讀 西內啟 著](https://www.tenlong.com.tw/products/9789863126140?list_name=srh)
 - [深度學習的數學地圖 -- 用 Python 實作神經網路的數學模型 ](https://www.tenlong.com.tw/products/9789863126263?list_name=sp)
 - [資料科學的建模基礎 |江崎貴裕 ; 王心薇 譯](https://www.tenlong.com.tw/products/9789863126621?list_name=srh)
-
+- [Practical Statistics for Data Scientists, 2nd Edition](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+  - 1. Exploratory Data Analysis
+  - 2. Data and Sampling Distributions 
