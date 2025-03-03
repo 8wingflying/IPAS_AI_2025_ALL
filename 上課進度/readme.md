@@ -1,4 +1,4 @@
-# 上課內容
+# (舊版)上課內容 ==> [2025年上課內容](AI_2025.md)
 - https://github.com/MyDearGreatTeacher/ML202302
 - https://github.com/MyDearGreatTeacher/AI4high
   - AI4high/Keras_簡單線性回歸.ipynb 
@@ -15,13 +15,8 @@
       - [Machine Learning 2016 Fall](https://speech.ee.ntu.edu.tw/~hylee/ml/2016-fall.php)
         - 傳統機器學習內容 
     - [Introduction to Generative AI 2024 Spring](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
-# 上課內容
-- 20250225
-  - Neural Network , neuron, logical gate
-- 20250304: AI4high/Keras_簡單線性回歸.ipynb 
-  - 線性回歸 Linear regression | 手把手學線性回歸
-    - https://github.com/zotroneneis/machine_learning_basics/blob/master/linear_regression.ipynb
-  - 下午 AI數學
+
+
 # 實戰主題
 - 資料科學 [2025年版由此去]()
   - https://github.com/MyDearGreatTeacher/AI4high 
