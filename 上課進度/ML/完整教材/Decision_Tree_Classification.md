@@ -7,7 +7,8 @@
     - 資料集DataSet : iris
       - https://gist.github.com/netj/8836201
       - https://www.geeksforgeeks.org/iris-dataset/
-      - [Kaggle 的各種實作](https://www.kaggle.com/search?q=iris) 
+      - [Kaggle 的各種實作](https://www.kaggle.com/search?q=iris)
+        - [Kmeans Iris Clustering]() 
    - 手把手 : [Decision tree for classification in plain Python](https://github.com/zotroneneis/machine_learning_basics/blob/master/decision_tree_classification.ipynb)
 
 ## [sklearn.datasets](https://scikit-learn.org/stable/datasets.html)
@@ -76,7 +77,8 @@ def save_fig(fig_id, tight_layout=True, fig_extension="png", resolution=300):
     if tight_layout:
         plt.tight_layout()
     plt.savefig(path, format=fig_extension, dpi=resolution)
-
+```
+```
 """# Training and Visualizing a Decision Tree"""
 
 from sklearn.datasets import load_iris
@@ -88,7 +90,9 @@ y_iris = iris.target
 
 tree_clf = DecisionTreeClassifier(max_depth=2, random_state=42)
 tree_clf.fit(X_iris, y_iris)
-
+```
+- [sklearn.tree](https://scikit-learn.org/stable/api/sklearn.tree.html)
+```
 """**This code example generates Figure 6–1. Iris Decision Tree:**"""
 
 from sklearn.tree import export_graphviz
