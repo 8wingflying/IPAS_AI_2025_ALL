@@ -27,7 +27,8 @@
     - 幾乎所有這些函數也可以限制 output 成為僅包含資料和目標的元組，請將參數設定為 。return_X_yTrue
     - 數據集的 attribute 中還包含 full description 和 有些包含與 。查看數據集 詳情。DESCRfeature_namestarget_names
   - 資料集生成函數 ==> 它們可用於生成受控 synthetic datasets 中介紹的 Generated datasets 部分。
-  - [Breast Cancer Wisconsin (Diagnostic) Data Set]()
+- TOY Dataset 參看Kaggle與Scikit-learn的說明
+  - [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 ```python
 from sklearn.datasets import load_iris
 
