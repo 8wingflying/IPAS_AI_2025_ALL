@@ -14,7 +14,8 @@
 - [最新機器學習的教科書, 2/e|伊藤真 著](https://www.tenlong.com.tw/products/9786267383889?list_name=lv)
 - [精通機器學習｜使用 Scikit-Learn , Keras 與 TensorFlow, 3/e (最新版本)|Aurélien Géron 著 ](https://www.tenlong.com.tw/products/9786263246676?list_name=srh)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems, 3/e
-  - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ 
+  - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/
+  - https://github.com/ageron/handson-ml3/tree/main
 - Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2
   - 中譯本
     - https://www.tenlong.com.tw/products/9789864345182
