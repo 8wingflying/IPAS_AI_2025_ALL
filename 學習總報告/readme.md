@@ -1,8 +1,10 @@
 # 期末總報告:每一科目四份報告
-- 機器學習
+- 機器學習  scikit-learning
   - 分類演算法
   - 回歸演算法
-  - 非監督式學習 == > K-Means (clustering algorithm)
+  - 非監督式學習
+    - K-Means (clustering algorithm)
+    - Dimensionality reduction 
   - ensemble learning
 - AI
   - CNN
