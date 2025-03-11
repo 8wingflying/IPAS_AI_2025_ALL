@@ -1,5 +1,11 @@
 # IPAS_AI_2025_ALL
 
+# 期末總報告:每一科目四份報告
+- 機器學習
+- 分類演算法
+- 回歸演算法
+- 非監督式學習 == > K-Means (clustering algorithm)
+- 程式註解 https://github.com/zotroneneis/machine_learning_basics/tree/master
 
 ### 初級 能力鑑定[專屬網站](./IPAS_AI_Basic)
 - 科目1: L11 人工智慧基礎概論
