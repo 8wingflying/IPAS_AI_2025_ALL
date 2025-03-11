@@ -1,7 +1,7 @@
 # Decision Tree Classification
 - 演算法說明
 - 實作
-  - scikit-learn
+  - scikit-learn實作
     - 教科書 Chapter 6 – Decision Trees
       - https://learning.oreilly.com/library/view/hands-on-machine-learning/9781098125967/ 
     - 資料集DataSet : iris
@@ -9,7 +9,12 @@
       - https://www.geeksforgeeks.org/iris-dataset/
       - [Kaggle 的各種實作](https://www.kaggle.com/search?q=iris)
         - [Kmeans Iris Clustering]() 
-   - 手把手 : [Decision tree for classification in plain Python](https://github.com/zotroneneis/machine_learning_basics/blob/master/decision_tree_classification.ipynb)
+   - Multi-Class Classification with Keras
+   - Tensorflow
+     - https://github.com/geevindiperera/Iris-Flower-Classification/tree/main 
+   - PyTorch
+     - [Classifying the Iris Data Set with PyTorch](https://janakiev.com/blog/pytorch-iris/) 
+   - 手把手實作 : [Decision tree for classification in plain Python](https://github.com/zotroneneis/machine_learning_basics/blob/master/decision_tree_classification.ipynb)
 
 ## [sklearn.datasets](https://scikit-learn.org/stable/datasets.html)
 - sklearn.datasets嵌入了一些小的資料集，並提供了 helpers 獲取機器學習社區常用的較大數據集進行基準測試 演演算法來處理來自「現實世界」的資料。sklearn.datasets
