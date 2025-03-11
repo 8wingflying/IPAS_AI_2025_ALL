@@ -11,7 +11,7 @@
 - sklearn.datasets嵌入了一些小的資料集，並提供了 helpers 獲取機器學習社區常用的較大數據集進行基準測試 演演算法來處理來自「現實世界」的資料。sklearn.datasets
 - 評估資料集規模 （和） 的影響，同時控制數據的統計屬性 （通常是特徵的相關性和資訊量），它是 也可以生成合成數據。n_samplesn_features
 - 通用資料集 API。有三種主要類型的數據集介面 可用於獲取數據集，具體取決於所需的數據集類型。
-  - 資料集載入器。它們可用於載入小型標準資料==> Toy datasets 部分中介紹。
+  - 資料集載入器(load_XXX())。它們可用於載入小型標準資料==> Toy datasets 部分中介紹。
   - 資料集提取器。它們可用於下載和載入更大的數據集==>真實世界數據集 部分中介紹。
     - loaders 和 fetchers 函數都返回一個包含至少兩個項目的物件： 形狀為 * 的陣列，其中 key（20NewsGroups除外）和 numpy 陣列 length ，包含目標值，鍵為 。n_samplesn_featuresdatan_samplestarget
     - Bunch 對像是一個字典，它將其鍵公開為屬性。 有關 Bunch 物件的更多資訊，請參閱。
