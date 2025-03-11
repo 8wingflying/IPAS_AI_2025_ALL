@@ -10,8 +10,11 @@
 - 強化學習
 # 監督式學習
 ## 監督式學習|回歸
-- Support Vector Machines
+- Support Vector Machines 回歸
+- Decision Tree 回歸
 ## 監督式學習|分類 
+- Support Vector Machines 分類
+- [Decision Tree 分類](Decision_Tree_Classification.md)
 # 非監督式學習
 - Clustering Analysis(叢集)
   - Hierarchical Clustering 
