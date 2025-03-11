@@ -3,4 +3,11 @@
 - 分類演算法
 - 回歸演算法
 - 非監督式學習 == > K-Means (clustering algorithm)
+- CNN
+- RNN
+- GAN
+- Generative AI ==> AI Agent ==> Knowledge distillation
+- RL
+- Multimodal Generative Models
+  - [Simulating the Real World: A Unified Survey of Multimodal Generative Models](https://arxiv.org/abs/2503.04641) 
 - 程式註解 https://github.com/zotroneneis/machine_learning_basics/tree/master
