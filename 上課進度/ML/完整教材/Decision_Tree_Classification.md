@@ -4,8 +4,24 @@
   - scikit-learn
     - 教科書 Chapter 6 – Decision Trees
     - 資料集DataSet : iris
+      - [Kaggle 的各種實作](https://www.kaggle.com/search?q=iris) 
    - 手把手 : [Decision tree for classification in plain Python](https://github.com/zotroneneis/machine_learning_basics/blob/master/decision_tree_classification.ipynb)
 
+## sklearn.datasets
+```python
+from sklearn.datasets import load_iris
+
+# Load the Iris dataset
+iris = load_iris()
+
+# Access the features and target variable
+X = iris.data # Features (sepal length, sepal width, petal length, petal width)
+y = iris.target # Target variable (species: 0 for setosa, 1 for versicolor, 2 for virginica)
+
+# Print the feature names and target names
+print("Feature names:", iris.feature_names)
+print("Target names:", iris.target_names)
+```
 ### 範例程式解說
 ```python
 # -*- coding: utf-8 -*-
