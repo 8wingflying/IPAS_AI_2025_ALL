@@ -30,8 +30,14 @@
     - 數據集的 attribute 中還包含 full description 和 有些包含與 。查看數據集 詳情。DESCRfeature_namestarget_names
   - 資料集生成函數 ==> 它們可用於生成受控 synthetic datasets 中介紹的 Generated datasets 部分。
 - TOY Dataset 參看Kaggle與[Scikit-learn](https://scikit-learn.org/stable/datasets.html)的說明
-  - 
-  - [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+  - 7.1. Toy datasets
+    - 7.1.1. Iris plants dataset
+    - 7.1.2. Diabetes dataset
+    - 7.1.3. Optical recognition of handwritten digits dataset
+    - 7.1.4. Linnerrud dataset
+    - 7.1.5. Wine recognition dataset
+    - 7.1.6. Breast cancer wisconsin (diagnostic) dataset
+      - Kaggle [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 ```python
 from sklearn.datasets import load_iris
 
