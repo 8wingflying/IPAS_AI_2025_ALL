@@ -7,7 +7,17 @@
       - [Kaggle 的各種實作](https://www.kaggle.com/search?q=iris) 
    - 手把手 : [Decision tree for classification in plain Python](https://github.com/zotroneneis/machine_learning_basics/blob/master/decision_tree_classification.ipynb)
 
-## sklearn.datasets
+## [sklearn.datasets](https://scikit-learn.org/stable/datasets.html)
+- sklearn.datasets嵌入了一些小的資料集，並提供了 helpers 獲取機器學習社區常用的較大數據集進行基準測試 演演算法來處理來自「現實世界」的資料。sklearn.datasets
+- 評估資料集規模 （和） 的影響，同時控制數據的統計屬性 （通常是特徵的相關性和資訊量），它是 也可以生成合成數據。n_samplesn_features
+- 通用資料集 API。有三種主要類型的數據集介面 可用於獲取數據集，具體取決於所需的數據集類型。
+  - 資料集載入器。它們可用於載入小型標準資料==> Toy datasets 部分中介紹。
+  - 資料集提取器。它們可用於下載和載入更大的數據集==>真實世界數據集 部分中介紹。
+    - loaders 和 fetchers 函數都返回一個包含至少兩個項目的物件： 形狀為 * 的陣列，其中 key（20NewsGroups除外）和 numpy 陣列 length ，包含目標值，鍵為 。n_samplesn_featuresdatan_samplestarget
+    - Bunch 對像是一個字典，它將其鍵公開為屬性。 有關 Bunch 物件的更多資訊，請參閱。
+    - 幾乎所有這些函數也可以限制 output 成為僅包含資料和目標的元組，請將參數設定為 。return_X_yTrue
+    - 數據集的 attribute 中還包含 full description 和 有些包含與 。查看數據集 詳情。DESCRfeature_namestarget_names
+  - 資料集生成函數 ==> 它們可用於生成受控 synthetic datasets 中介紹的 Generated datasets 部分。
 ```python
 from sklearn.datasets import load_iris
 
